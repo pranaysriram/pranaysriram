@@ -1,4 +1,4 @@
-# Hi there, I'm Pranay Sriram 👋
+# Hi, I'm Pranay Sriram 👋
 
 **Aspiring AIML Developer | 2026 CSM Graduate**
 
@@ -27,11 +27,11 @@ Passionate Software Engineer focused on building robust, scalable RESTful APIs, 
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 ![AsyncIO](https://img.shields.io/badge/AsyncIO-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Databases & Storage**  
+**Databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Security & Tools**  
+**Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
