@@ -2,7 +2,7 @@
 
 **Aspiring AIML Developer | 2026 CSM Graduate**
 
-Passionate Software Engineer focused on building robust, scalable RESTful APIs, clean database architectures, and integrating Applied AI systems. Experienced in Python, C++, and modern database management.
+Passionate Software Engineer focused on building robust, scalable RESTful APIs, clean database architectures, and integrating Applied AI systems. Experienced in Python, and modern database management.
 
 ---
 
@@ -19,7 +19,6 @@ Passionate Software Engineer focused on building robust, scalable RESTful APIs, 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 **Backend & APIs**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
