@@ -2,7 +2,8 @@
 
 **Aspiring AIML Developer | 2026 CSM Graduate**
 
-Passionate Software Engineer focused on building robust, scalable RESTful APIs, clean database architectures, and integrating Applied AI systems. Experienced in Python, and modern database management.
+Passionate **Python Full-Stack & AI/ML Developer** skilled in building scalable web applications, RESTful APIs, database solutions, and AI-powered systems using **Python, FastAPI, frontend technologies, SQL, Machine Learning, Generative AI, and LLMs**.
+.
 
 ---
 
