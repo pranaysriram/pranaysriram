@@ -8,9 +8,8 @@ Passionate Software Engineer focused on building robust, scalable RESTful APIs, 
 
 ### 🚀 About Me
 
-* 💻 **Backend Focus:** Building performant, maintainable services with FastAPI, relational databases, and clean architecture principles.
-* 🏗️ **Current Work:** Developing production-grade REST APIs featuring asynchronous processing, secure authentication, and query optimization.
-* 🎯 **Career Goal:** Seeking entry-level opportunities as an **AIML Developer / Software Engineer** to build and scale intelligent backend systems.
+* 💻 **Full-Stack & AI/ML Focus:** Building performant, maintainable applications using Python, FastAPI, relational databases, frontend technologies, and AI/ML solutions.
+* 🎯 **Career Goal:** Seeking entry-level opportunities as an AI/ML Developer or Python Engineer, where I can apply Python, machine learning, databases, and AI technologies to build scalable and intelligent software systems..
 
 ---
 
@@ -23,8 +22,6 @@ Passionate Software Engineer focused on building robust, scalable RESTful APIs, 
 **Backend & APIs**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-![AsyncIO](https://img.shields.io/badge/AsyncIO-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
