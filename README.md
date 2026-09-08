@@ -52,6 +52,7 @@ Passionate **Python Full-Stack & AI/ML Developer** skilled in building scalable 
 
 ### 📬 Connect With Me
 
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://share.streamlit.io/user/pranaysriram)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriram-pranay-kumar/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pranaykumarsriram@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/pranayj8/)
